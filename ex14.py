@@ -1,7 +1,7 @@
 from sys import argv
 
 script, user_name, pet_name = argv
-prompt = '>>> '
+prompt = 'Answer: '
 
 print(f"Hi {user_name}, I'm the {script} script.")
 print("I'd like to ask you a few questions.")

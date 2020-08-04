@@ -7,7 +7,7 @@ txt = open(filename)
 print(f"Here's your file {filename}:")
 # perform the 'read' function on the variable 'txt' with no parameters; print it
 print(txt.read())
-
+# ask the user to provide the text file name again
 file_again = input("Type the filename again: ")
 
 txt_again = open(file_again)
