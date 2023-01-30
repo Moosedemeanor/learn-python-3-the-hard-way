@@ -12,7 +12,7 @@ print("I will now count my chickens:")
 # print Hens string then perform calculation
 print("Hens", 25 + 30 / 6)
 # print Roosters string then perform calculation
-print("Roosers", 100 - 25 * 3 % 4)
+print("Roosters", 100 - 25 * 3 % 4)
 # print string statement
 print("Now I will count the eggs:")
 # print the result of the calculation
